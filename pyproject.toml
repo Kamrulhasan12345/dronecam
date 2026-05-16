@@ -7,10 +7,21 @@ authors = [
     { name = "Mohammad Kamrul Hasan", email = "kamrulhasan59246@gmail.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "matplotlib>=3.10.9",
+    "numpy>=2.4.5",
+    "pandas>=3.0.3",
+    "sahi>=0.11.36",
+    "seaborn>=0.13.2",
+    "supervision>=0.28.0",
+    "ultralytics>=8.4.51",
+]
 
 [project.scripts]
-dronecam = "dronecam:main"
+dronecam-preprocess = "dronecam.cli.preprocess:main"
+dronecam-train = "dronecam.cli.train:main"
+dronecam-infer = "dronecam.cli.infer:main"
+dronecam-track = "dronecam.cli.track:main"
 
 [build-system]
 requires = ["uv_build>=0.9.26,<0.10.0"]
