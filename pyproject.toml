@@ -1,7 +1,7 @@
 [project]
 name = "dronecam"
 version = "0.1.0"
-description = "Add your description here"
+description = "A computer vision pipeline using YOLO and SAHI to detect, count, and track humans and cars in high-resolution drone imagery."
 readme = "README.md"
 authors = [
     { name = "Mohammad Kamrul Hasan", email = "kamrulhasan59246@gmail.com" }
