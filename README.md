@@ -7,7 +7,7 @@ This project is a computer vision pipeline built to detect humans and cars in hi
 ## Deliverables & Quick Links
 
 * **Source Code:** Contained in this repository (`dronecam` package).
-* **Demonstration Video:** [Insert Video Link Here]
+* **Demonstration Video:** [Drive Folder Link](https://drive.google.com/drive/folders/1pDpY7peyc-l4mw0VPhRvVkvk7t3b7Trz?usp=drive_link)
 * **Output Visualizations:** Check the `outputs/` directory for processed images, tracking videos, and evaluation metrics.
 
 ---
