@@ -1,4 +1,4 @@
-# Drone Human Detection & Counting System
+# DroneCAM - Drone Human Detection & Counting System
 
 This project is a computer vision pipeline built to detect humans and cars in high-resolution drone imagery, along with counting and tracking capabilities. It was developed as a technical submission for the Antlings Internship Program.
 
